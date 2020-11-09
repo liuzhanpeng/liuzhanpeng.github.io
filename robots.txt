@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://liuzhanpeng.github.io/sitemap.xml
